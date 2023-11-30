@@ -1,6 +1,9 @@
 # MysticalBottleHunter
 Juego 3d desarrollado en Unity
 
+<img width="960" alt="image" src="https://github.com/dinoferre/MysticalBottleHunter/assets/105014048/4ff3e3c2-312a-41fe-a7e6-a01335cbb644">
+
+
 Embárcate en una emocionante aventura en 3D con "Mystical Bottle Hunter".
 Un mundo vibrante donde tu objetivo es recolectar botellas místicas mientras tratas de sortear obstáculos, saltar a nuevas alturas y explorar entornos cautivadores.
 
@@ -18,6 +21,9 @@ Cómo Jugar:
 -Controla tu personaje con habilidad para esquivar obstáculos y recolectar botellas.
 -Utiliza el salto estratégicamente para superar desafíos.
 -Observa el temporizador y el contador de botellas para medir tu progreso.
+
+<img width="960" alt="image" src="https://github.com/dinoferre/MysticalBottleHunter/assets/105014048/b799af21-93ac-4eb0-b857-3c90a82fe82c">
+
 
 ¡Diviertete!
 
