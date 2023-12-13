@@ -1,4 +1,4 @@
-# MysticalBottleHunter
+# Mystical Bottle Hunter
 Juego 3d desarrollado en Unity
 
 <img width="960" alt="image" src="https://github.com/dinoferre/MysticalBottleHunter/assets/105014048/4ff3e3c2-312a-41fe-a7e6-a01335cbb644">
